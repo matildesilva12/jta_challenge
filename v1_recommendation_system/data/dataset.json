@@ -1,0 +1,181 @@
+{
+    "Console": [
+        {
+            "name": "Nintendo Switch",
+            "Store A": 200000,
+            "Store B": 150000,
+            "Store C": 150000,
+            "category": "Console",
+            "times_sold": 500000
+        }
+    ],
+    "Games": [
+        {
+            "name": "Zelda: Breath of the Wild",
+            "release_date": "2017-03-03",
+            "times_sold": 250000,
+            "Store A": 120000,
+            "Store B": 80000,
+            "Store C": 50000,
+            "type": "Adventure",
+            "category": "Game",
+            "franchise": "The Legend of Zelda",
+            "min_age": 12
+        },
+        {
+            "name": "Zelda: Tears of the Kingdom",
+            "release_date": "2023-05-12",
+            "times_sold": 350000,
+            "Store A": 200000,
+            "Store B": 100000,
+            "Store C": 50000,
+            "type": "Adventure",
+            "category": "Game",
+            "franchise": "The Legend of Zelda",
+            "min_age": 12
+        },
+        {
+            "name": "Super Mario Odyssey",
+            "release_date": "2017-10-27",
+            "times_sold": 400000,
+            "Store A": 150000,
+            "Store B": 100000,
+            "Store C": 150000,
+            "type": "Platformer",
+            "category": "Game",
+            "franchise": "Super Mario",
+            "min_age": 7
+        },
+        {
+            "name": "Mario Kart 8 Deluxe",
+            "release_date": "2017-04-28",
+            "times_sold": 300000,
+            "Store A": 100000,
+            "Store B": 100000,
+            "Store C": 100000,
+            "type": "Racing",
+            "category": "Game",
+            "franchise": "Super Mario",
+            "min_age": 6
+        },
+        {
+            "name": "Mario Party Superstars",
+            "release_date": "2021-10-29",
+            "times_sold": 200000,
+            "Store A": 80000,
+            "Store B": 70000,
+            "Store C": 50000,
+            "type": "Party",
+            "category": "Game",
+            "franchise": "Super Mario",
+            "min_age": 6
+        },
+        {
+            "name": "Sonic Generations",
+            "release_date": "2011-11-01",
+            "times_sold": 180000,
+            "Store A": 60000,
+            "Store B": 60000,
+            "Store C": 60000,
+            "type": "Platformer",
+            "category": "Game",
+            "franchise": "Sonic",
+            "min_age": 10
+        },
+        {
+            "name": "Sonic Mania",
+            "release_date": "2017-08-15",
+            "times_sold": 250000,
+            "Store A": 150000,
+            "Store B": 100000,
+            "Store C": 0,
+            "type": "Platformer",
+            "category": "Game",
+            "franchise": "Sonic",
+            "min_age": 10
+        },
+        {
+            "name": "Animal Crossing: New Horizons",
+            "release_date": "2020-03-20",
+            "times_sold": 800000,
+            "Store A": 500000,
+            "Store B": 300000,
+            "Store C": null,
+            "type": "Simulation",
+            "category": "Game",
+            "franchise": "Animal Crossing",
+            "min_age": 3
+        },
+        {
+            "name": "Splatoon 3",
+            "release_date": "2022-09-09",
+            "times_sold": 500000,
+            "Store A": 200000,
+            "Store B": 150000,
+            "Store C": 150000,
+            "type": "Shooter",
+            "category": "Game",
+            "franchise": "Splatoon",
+            "min_age": 10
+        },
+        {
+            "name": "Pikmin 4",
+            "release_date": "2023-07-21",
+            "times_sold": 100000,
+            "Store A": 40000,
+            "Store B": 30000,
+            "Store C": 30000,
+            "type": "Strategy",
+            "category": "Game",
+            "franchise": "Pikmin",
+            "min_age": 7
+        }
+    ],
+    "Accessories": [
+        {
+            "name": "Nintendo Switch Pro Controller",
+            "times_sold": 100000,
+            "Store A": 40000,
+            "Store B": 30000,
+            "Store C": 30000,
+            "category": "Controller",
+            "type": "Accessory"
+        },
+        {
+            "name": "Joy-Con Controllers (Pair)",
+            "times_sold": 80000,
+            "Store A": 40000,
+            "Store B": null,
+            "Store C": 40000,
+            "category": "Controller",
+            "type": "Accessory"
+        },
+        {
+            "name": "Nintendo Switch Dock Set",
+            "times_sold": 60000,
+            "Store A": 20000,
+            "Store B": 20000,
+            "Store C": 20000,
+            "category": "Dock",
+            "type": "Accessory"
+        },
+        {
+            "name": "Nintendo Switch Carrying Case",
+            "times_sold": 50000,
+            "Store A": 20000,
+            "Store B": null,
+            "Store C": 30000,
+            "category": "Case",
+            "type": "Accessory"
+        },
+        {
+            "name": "Nintendo Switch Screen Protector",
+            "times_sold": 30000,
+            "Store A": 15000,
+            "Store B": null,
+            "Store C": 15000,
+            "category": "Screen Protector",
+            "type": "Accessory"
+        }
+    ]
+}
